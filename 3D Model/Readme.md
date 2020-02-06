@@ -1,1 +1,1 @@
-
+The model should be printed with a line thickness of 0.1mm with ABS, and PVA as support. The relatively high melting point of the ABS makes it a good substitute for bone since it does not melt during drilling.
